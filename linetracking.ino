@@ -61,16 +61,6 @@ void loop()
      analogWrite(leftMotor, 0);
      analogWrite(rightMotor, 0);
    }
-  
-
-
-
-
-
-
-
-
-
 }
 
 
